@@ -31,6 +31,10 @@ const placesDB = {
     {
       name: "Alleppey",
       rating: "5/5"
+    },
+    {
+      name: "Thekkady",
+      rating: "3.5/5"
     }
   ]
 };
